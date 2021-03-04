@@ -1,0 +1,14 @@
+[15-Nov-2020 02:27:36 UTC] PHP Notice:  Undefined index: nombre in /home/centrotyo/public_html/correos.php on line 5
+[15-Nov-2020 02:27:36 UTC] PHP Notice:  Undefined index: email in /home/centrotyo/public_html/correos.php on line 6
+[15-Nov-2020 02:27:36 UTC] PHP Notice:  Undefined index: asunto in /home/centrotyo/public_html/correos.php on line 7
+[15-Nov-2020 02:27:36 UTC] PHP Notice:  Undefined index: mensajes in /home/centrotyo/public_html/correos.php on line 8
+[15-Nov-2020 03:29:44 UTC] PHP Notice:  Undefined index: nombre in /home/centrotyo/public_html/correos.php on line 5
+[15-Nov-2020 03:29:44 UTC] PHP Notice:  Undefined index: email in /home/centrotyo/public_html/correos.php on line 6
+[15-Nov-2020 03:29:44 UTC] PHP Notice:  Undefined index: asunto in /home/centrotyo/public_html/correos.php on line 7
+[15-Nov-2020 03:29:44 UTC] PHP Notice:  Undefined index: mensajes in /home/centrotyo/public_html/correos.php on line 8
+[15-Nov-2020 18:16:38 UTC] PHP Notice:  Undefined index: nombre in /home/centrotyo/public_html/correos.php on line 5
+[15-Nov-2020 18:16:38 UTC] PHP Notice:  Undefined index: email in /home/centrotyo/public_html/correos.php on line 6
+[15-Nov-2020 18:16:38 UTC] PHP Notice:  Undefined index: asunto in /home/centrotyo/public_html/correos.php on line 7
+[15-Nov-2020 18:16:38 UTC] PHP Notice:  Undefined index: mensajes in /home/centrotyo/public_html/correos.php on line 8
+[16-Nov-2020 15:20:23 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/centrotyo/public_html/correos.php on line 13
+[16-Nov-2020 15:20:34 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/centrotyo/public_html/correos.php on line 13
